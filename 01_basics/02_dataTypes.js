@@ -17,3 +17,4 @@ let isLoggedIn = true
 
 console.log(typeof null) // NULL IS OBJECT
 console.log(typeof undefined) // UNDEF IS UNDEF
+// plus -> commit -> push
